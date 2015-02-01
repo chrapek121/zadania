@@ -1,0 +1,2 @@
+Nazwisko: cc, Imie: sa, Album: 3, Rok: 4, Srednia: 2,000000
+Nazwisko: ff, Imie: eww, Album: 4, Rok: 6, Srednia: 8,000000
